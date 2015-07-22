@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/elasticsearch
+FROM dockerfile/elasticsearch:1.3.9
 MAINTAINER zhihang.yu@gmail.com
 
 #Bundle ik and config files
