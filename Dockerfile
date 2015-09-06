@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/elasticsearch:1.3.9
+FROM lingpin/elasticsearch:1.3.1
 MAINTAINER zhihang.yu@gmail.com
 
 #Bundle ik and config files

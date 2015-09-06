@@ -167,7 +167,7 @@ path.logs: /data/log
 #
 #path.plugins: /usr/local/var/lib/elasticsearch/plugins
 
-path.plugins: /usr/local/var/lib/elasticsearch/plugins
+#path.plugins: /usr/local/var/lib/elasticsearch/plugins
 #################################### Plugin ###################################
 
 # If a plugin listed here is not installed for current node, the node will not start.
